@@ -7,7 +7,7 @@
 The Flutter Appointment App is a mobile application designed to help users manage their appointments efficiently. It provides an intuitive interface for users to schedule, view, and manage their appointments with ease.
 
 ## Features
-
+-User authentication, user can login and signup via email and password.
 - User-friendly appointment scheduling system
 - View upcoming appointments at a glance
 - Set reminders for appointments
@@ -15,8 +15,8 @@ The Flutter Appointment App is a mobile application designed to help users manag
 - Dark mode support for better user experience
 
 ## Screenshots
-
-
+visit this link to view the screenshots of the app
+https://imgur.com/a/7CiqapN
 
 ## Getting Started
 
