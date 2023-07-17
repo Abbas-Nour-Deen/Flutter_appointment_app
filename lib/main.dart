@@ -7,7 +7,6 @@ import 'package:flutter/services.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-
 import 'Screens/auth.dart';
 import 'Screens/mainScreen.dart';
 import 'Screens/splash.dart';
@@ -18,7 +17,7 @@ var KColorScheme = ColorScheme.fromSeed(seedColor: Colors.blue);
 var KDarkColorScheme =
     ColorScheme.fromSeed(brightness: Brightness.dark, seedColor: Colors.red);
 
-final _firebase = FirebaseAuth.instance;
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
